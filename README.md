@@ -1,1 +1,3 @@
-# Crypto_Project
+# Crypto_Project\
+For this project, I will be implementing a rudimentary market for cryptocurrencies. 
+A class, name "Exchange", has public member functions that allow for the deposit and withdrawl of various assets (e.g. Bitcoin, Etherum and US Dollars). Orders to buy and sell assets at a specified price can also be made and the exchange will perform trades as possible to fulfill orders. Lastly, the exchange has a member function dedicated to printing out the current status of the exchange (i.e. what is in each user’s portfolio, what orders have been opened and filled, what trades have taken place, and what the current prices are for the assets being traded.
